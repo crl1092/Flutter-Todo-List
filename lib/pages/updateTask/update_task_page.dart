@@ -73,7 +73,7 @@ class _UpdateTaskPageState extends State<UpdateTaskPage> {
                 const SizedBox(width: 20),
                 ElevatedButton(
                   onPressed: salvarModificacao,
-                  child: Text("Salvar tarefa"),
+                  child: Text("Salvar Modificação"),
                 ),
               ],
             ),
